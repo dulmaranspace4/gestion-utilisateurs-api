@@ -1,6 +1,7 @@
 {
   "name": "gestion-utilisateurs-api",
   "version": "1.0.0",
+  "description": "API for user management",  
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"
